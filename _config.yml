@@ -1,7 +1,7 @@
 # Site settings
 title: BY Blog
 SEOTitle: Lynn的世界 | Lynn's World
-header-img: img/bg-onhead.jpg
+header-img: img/bg-onhead.JPG
 email: vintherine19@gmail.com
 description: "Love is powerful, leading me to better self."
 keyword: "Lynn, Lynn's World, Lynn的世界, Huilin QU, 屈慧琳, iOS, Apple, iPhone"
@@ -13,7 +13,7 @@ github_repo: "https://github.com/Lynn-Qu/Lynn-Qu.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Better Me"
-sidebar-avatar: /img/avatar-lynn1.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-lynn1.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
